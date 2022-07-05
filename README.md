@@ -12,3 +12,6 @@ https://wilmr.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Wilmer Martinez
+
+
+### ©️2019 Run Buddy, Inc 
